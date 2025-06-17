@@ -1,0 +1,8 @@
+{
+  "build_time": "2025-06-17 15:35:19",
+  "pdf_count": 18,
+  "chunk_count": 531,
+  "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
+  "chunk_size": 500,
+  "time_elapsed": 24.38331413269043
+}
